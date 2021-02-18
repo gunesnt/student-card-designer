@@ -34,5 +34,3 @@ You can serve and see the result in your local environment with this command: `n
 - Manipulation on the PDF
 
   I used a library called `@react-pdf/renderer`. With this, I designed a structure that works between HTML and PDF File
-
-Overall, It was a good challenge for me, I didn't experienced a situation like this before and it was also good to understand what's it like your work. I learned a lot from making it. Thank you for the assignment.
