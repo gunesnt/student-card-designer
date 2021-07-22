@@ -22,7 +22,7 @@
     "react-pdf": "^5.0.0",
     "react-scripts": "4.0.0",
     "styled-components": "^5.2.1",
-    "xlsx": "^0.16.8"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "customize-cra": "latest",
